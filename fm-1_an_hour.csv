@@ -1,0 +1,16 @@
+#group,false,false,true,true,false,false,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
+#default,last,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,function,nameplate
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T16:00:00Z,299958,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T17:00:00Z,299958,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T18:00:00Z,299958,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T19:00:00Z,299985,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T20:00:00Z,299986,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T21:00:00Z,299986,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T22:00:00Z,299991,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-26T23:00:00Z,300022,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-27T00:00:00Z,300022,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-27T01:00:00Z,300061,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-27T02:00:00Z,300068,value,water,cumulative positive,fm-1
+,,0,2024-05-26T15:58:00Z,2024-05-28T16:00:00Z,2024-05-27T03:00:00Z,300090,value,water,cumulative positive,fm-1
